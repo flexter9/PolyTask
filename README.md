@@ -69,39 +69,3 @@ To delete all windows, you just need to:
  Add a new Calculator : `Shift + C`
   
 
-## Creators
-
-Zhenyu Liang (Adv), Tony, Sumah
-
-Outside contributers : P Pranav Baburaj
-  
-  
-
-### Zhenyu Liang
-
-Hello, I am Zhenyu Liang and I am 13 years old (currently in 8th grade 2020).
-It was a great experience participating in this Code Jam (Timathon). I learned
-a new programming language during this time, and I met 2 great people thanks to this Code Jam.
-I really enjoy this process and I can't wait to participate in the next one. ✌
-
-  
-  
-
-### Tony Zhang
-
-Hi! it was really fun participating in this Code Jam. I meet some great people on the discord server.
-I am a 13 year old in 8th grade. This was the first time that I have worked on a programming project with other people and
-learned how to use github and git kind of ish. really happy I participated in this competition.
-visit my website if you want [tonyzhang.net](http://tonyzhang.net)
-
-  
-
-### Sumah
-
-Hey, I'm sumah, it was alot of fun doing this codejam. I learned javascript and html, which are now very fun to code in. Working on a team for the first time (with Tony and Zhenyu) has been very cool, and nice. Although there were some timezone restrictions, we still managed to finish and have some good communication. Im looking forward to continue working on polytask, and seeing where it will go.
-
-  
-
-### Pranav Baburaj
-
-I am Pranav . I am a 13 year old in 8th grade. This was the first time that I have worked on a programming project with other people. Really happy that I could improve the project. My Github link: [Github](https://github.com/pranavbaburaj). 
